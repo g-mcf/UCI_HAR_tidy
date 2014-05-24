@@ -134,6 +134,6 @@ write.csv(total_dataset, file = "UCI_Har_total.csv", row.names = FALSE)
 write.csv(tidy_total_dataset, file = "UCI_Har_tidy.csv", row.names = FALSE)
 
 # remove the total dataset object
-# rm(total_dataset)
+rm(total_dataset)
 
 # That's it. Thanks!
