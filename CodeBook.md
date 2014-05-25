@@ -3,7 +3,7 @@ Codebook for UCI_Har_tidy.csv
 
 ### Introduction
 
-The **UCI_Har_tidy** dataset summarizes a subset of raw data according to [Tidy Data Principles](http://vita.had.co.nz/papers/tidy-data.pdf).  The raw data was sourced at the UCI Machine Learning Repository found here: [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+The **UCI_Har_tidy** dataset summarizes a subset of raw data according to [Tidy Data Principles](http://vita.had.co.nz/papers/tidy-data.pdf).  The raw data was sourced at the UCI Machine Learning Repository found here: [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) on 12 May 2014.
 
 The raw data is well described at the link above.  Briefly, researchers carried out experiments with a group of 30 volunteers in which each person performed six activities (WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING) while wearing a Samsung Galaxy SII smartphone on the waist. The smartphone's embedded accelerometer and gyroscope allowed the researchers to capture 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The researchers used video-recordings of the activities to label the data manually. They measured and/or generated 561 seperate "features" of the data for each subject over several repetitons of each activity.  They then randomly partitioned the data into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
